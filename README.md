@@ -7,5 +7,5 @@ Aplicación Android desarrollada en Kotlin que incluye:
 - Confirmación y vaciado de carrito
 - Mejora de interfaz y diseño
 
-Asignatura: DAM  
-Alumno/a: Katherin Varela
+Asignatura: Programacion multimedia
+Alumna: Katherin Varela
