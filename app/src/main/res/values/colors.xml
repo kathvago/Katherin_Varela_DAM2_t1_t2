@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Base -->
+<color name="color_bg">#F6F6F7</color>
+<color name="color_surface">#FFFFFF</color>
+<color name="color_text">#111111</color>
+<color name="color_text_muted">#666666</color>
+
+<!-- Acento  -->
+<color name="color_accent">#111111</color>
+<color name="color_accent_soft">#E9E9EA</color>
+</resources>
